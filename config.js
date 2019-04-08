@@ -1,8 +1,8 @@
 module.exports = {
   version: "6.5.6",
   note: '小程序转发到微信群，可获赠积分',
-  subDomain: "tz", // 如果你的域名是： https://api.it120.cc/abcd 那么这里只要填写 abcd
-  appid: "wxa46b09d413fbcaff", // 您的小程序的appid，购物单功能需要使用
+  subDomain: "358093087fdc120c2e6587f22a2fbb3a", // 如果你的域名是： https://api.it120.cc/abcd 那么这里只要填写 abcd
+  appid: "wxe92cb19a3872c10d", // 您的小程序的appid，购物单功能需要使用
   shareProfile: '百款精品商品，总有一款适合您' // 首页转发的时候话术
 }
 /*
